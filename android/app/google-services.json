@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "578887992559",
+    "project_id": "shopapp-7c5c8",
+    "storage_bucket": "shopapp-7c5c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578887992559:android:5220ede73bc4fe8e27071a",
+        "android_client_info": {
+          "package_name": "com.example.radiant_retail"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKn0LZUdWfigVi3PqGdp9qiwUZJ57ThXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
